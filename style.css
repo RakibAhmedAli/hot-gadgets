@@ -61,17 +61,18 @@
 .categories {
     margin: 74px;
 }
-.categories-img {
-    margin-left: -124px;
-}
 
-.beauty, .shoes, .bag {
+.beauty, .shoes{
     border: 2px solid;
     margin-top: 19px;
     padding: 20px 36px;
     border-radius: 10px;
     box-shadow: 5px 8px 14px grey;
 }
-.bag {
+.bag{
     margin-top: 140px;
+    border: 2px solid;
+}
+.col-6{
+    max-width: 50%;
 }
