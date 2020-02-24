@@ -1,0 +1,77 @@
+*{
+    margin:0; 
+    padding:0; 
+    }
+.navigation-bg{
+    background-color: #fff;
+}
+.nav-opt {
+    margin-left: 480px;
+}
+.banner-images {
+    margin-top: 70px;
+}
+.carousel-item {
+    padding: 10px 25px;
+}
+.slider-text {
+    padding-top: 113px;
+}
+.slider-text p{
+    color: #666;
+}
+.buy-now {
+    background-color: #000000;
+    color: #fff;
+    padding: 6px 16px;
+    border-radius: 6px;
+    border: none;
+}
+
+.card {
+    box-shadow: 3px -1px 17px lightgrey;
+}
+.card-all-text h5 {
+    text-align: center;
+}
+.card-all-text p {
+    text-align: center;
+}
+.card-all-text h3{
+    text-align: center;
+}
+.card-footer {
+    border: none;
+    background-color: #fff;
+    text-align: center;
+}
+
+.see-all {
+    font-size: 16px;
+    color: #FFCF19;
+}
+.see-all:hover{
+    text-decoration: none;
+    color: #FFCF19;
+}
+.laptop {
+    margin-top: 39px;
+}
+
+.categories {
+    margin: 74px;
+}
+.categories-img {
+    margin-left: -124px;
+}
+
+.beauty, .shoes, .bag {
+    border: 2px solid;
+    margin-top: 19px;
+    padding: 20px 36px;
+    border-radius: 10px;
+    box-shadow: 5px 8px 14px grey;
+}
+.bag {
+    margin-top: 140px;
+}
